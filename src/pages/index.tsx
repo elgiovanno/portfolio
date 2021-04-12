@@ -35,7 +35,7 @@ export default function Home() {
           <h1 className="card__heading">Why?</h1>
           <p>
             Exposing my work, ideas, thoughts and learnings has never been a
-            strength of mine. This is site an attempt to change that.
+            strength of mine. This site is an attempt to change that.
           </p>
         </div>
       </div>
