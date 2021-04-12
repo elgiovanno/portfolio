@@ -7,12 +7,12 @@
 */
 @layer components {
   .card {
-    @apply px-6 py-12;
+    @apply flex-1 px-6 py-12;
   }
   .card--white {
     @apply bg-white;
   }
-  .card-heading {
+  .card__heading {
     @apply mb-4 font-extrabold text-4xl text-gray-800;
   }
 }
