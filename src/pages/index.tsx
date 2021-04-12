@@ -3,10 +3,10 @@ import Logo from "../components/logo";
 export default function Home() {
   return (
     <div className="bg-gray-100 min-h-screen">
-      <div className="border border-red-500">
+      <div className="bg-white">
         <Logo />
       </div>
-      <div className="border border-blue-500">
+      <div className="">
         <div className="card">
           <h1 className="card-heading">Who?</h1>
           <p>
@@ -15,7 +15,7 @@ export default function Home() {
             <span className="italic">"Student of Life"</span>.
           </p>
         </div>
-        <div className="card">
+        <div className="card card--white">
           <h1 className="card-heading">What?</h1>
           <p>
             Human, male, son, uncle, friend, multi-instrumentalist, composer,
@@ -27,7 +27,7 @@ export default function Home() {
           <h1 className="card-heading">When?</h1>
           <p>August 26th, 1984</p>
         </div>
-        <div className="card">
+        <div className="card card--white">
           <h1 className="card-heading">Where?</h1>
           <p>San Juan, Puerto Rico</p>
         </div>
