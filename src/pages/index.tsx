@@ -11,7 +11,7 @@ export default function Home() {
           <h1 className="card__heading">Who?</h1>
           <p>
             My name is Giovanni de la Rosa. I'm a musician, web developer, and
-            like to consider myself of&nbsp;
+            like to consider myself a&nbsp;
             <span className="italic">"Student of Life"</span>.
           </p>
         </div>
